@@ -1,0 +1,37 @@
+{
+    "mCF+mh6d81U2xIQu{PnB": {
+        "data": "hwQFAAUAAAB3dwcAd3cHAHd3BwB3dwcA9/cHAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "snake_right"
+    },
+    "{^my:V?GPk1`_NF": {
+        "data": "hwQFAAUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "empty"
+    },
+    "Ze3tODxqZp$zyfm:,D7N": {
+        "data": "hwQFAAUAAAB3dwcAd3cPAHd3BwB3dw8Ad3cHAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "snake_down"
+    },
+    "bv?X|h;Lb|]in3O!0PXO": {
+        "data": "hwQFAAUAAAB3dwcAf3cHAHd3BwB/dwcAd3cHAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "snake_up"
+    },
+    "t0n/dvoi_O": {
+        "data": "hwQFAAUAAAD39wcAd3cHAHd3BwB3dwcAd3cHAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "snake_left"
+    },
+    "image1": {
+        "data": "hwQFAAUAAAAAIgAAICICAO4iAgAgIgIAACIAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "apple"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
